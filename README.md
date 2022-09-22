@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DianaSkira26
-- 👀 I’m interested in MANUAL TESTING
+
 
 
 <!---
